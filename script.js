@@ -8,9 +8,9 @@ function goToProfile() {
         "althea": "https://www.facebook.com/johnwayne.bigsat",
         "ismar": "https://www.facebook.com/yskajhdee",
         "myka": "https://www.facebook.com/ismar.genodia.2024",
-        "john kenneth": "https://www.facebook.com/danica.castino.50",
+        "john kenneth": "https://www.facebook.com/hershelyn.debel",
         "troy": "https://www.facebook.com/tsegura.x",
-        "edmar": "https://web.facebook.com/vermyongil.delacruz"
+        "edmar": "https://www.facebook.com/vermyongil.delacruz"
     };
 
     if (profileMap[input]) {
