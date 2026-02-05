@@ -10,7 +10,7 @@ function goToProfile() {
         "myka": "https://www.facebook.com/ismar.genodia.2024",
         "troy": "https://www.facebook.com/tsegura.x",
         "edmar": "https://www.facebook.com/vermyongil.delacruz",
-        "kenneth": "https://www.facebook.com/hershelyn.debel",
+        "kenneth": "https://www.facebook.com/hershelyn.debel"
     };
 
     if (profileMap[input]) {
