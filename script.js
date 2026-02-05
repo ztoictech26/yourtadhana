@@ -9,7 +9,7 @@ function goToProfile() {
         "ismar": "https://www.facebook.com/yskajhdee",
         "myka": "https://www.facebook.com/ismar.genodia.2024",
         "troy": "https://www.facebook.com/tsegura.x",
-        "edmar": "https://www.facebook.com/vermyongil.delacruz",
+        "edmar": "https://www.facebook.com/profile.php?id=100087624863597",
         "kenneth": "https://www.facebook.com/hershelyn.debel"
     };
 
